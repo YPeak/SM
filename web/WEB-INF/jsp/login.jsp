@@ -9,16 +9,11 @@
 <html>
   <head>
     <title>$Title$</title>
-    <style type="text/css">
-      #login {
-        background-image: url(images/login/loginIn.jpg);
-      }
-    </style>
+
   </head>
   <body>
-    <div id="login" style="width: 100%;height: 100%; ">
-    </div>
-
-
+  <img src="C:/Users/yu/Desktop/asf/asdf.jpg" width="100" height="100"/>
+  <img src="C:/Users/yu/Desktop/asf/asdf.jpg" width="100" height="100"/>
+  $END$1231231231
   </body>
 </html>
