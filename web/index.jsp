@@ -8,17 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
-    <style type="text/css">
-      #login {
-        background-image: url(images/login/loginIn.jpg);
-      }
-    </style>
   </head>
   <body>
-    <div id="login" style="width: 100%;height: 100%; ">
-    </div>
-
-
+  <script language="javascript" type="text/javascript">
+    window.location.href="http://localhost:8080/jsp/index.jsp";
+  </script>
   </body>
 </html>
